@@ -1,4 +1,6 @@
-# INTRODUCTION
+#eMboga API
+
+## INTRODUCTION
 
 In this project, I will create a nice and easy API by implementing a REST API with the symfony framework
 
