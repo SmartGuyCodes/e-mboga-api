@@ -1,10 +1,10 @@
-#eMboga API
+# eMboga API
 
 ## INTRODUCTION
 
 In this project, I will create a nice and easy API by implementing a REST API with the symfony framework
 
-#WHAT IS A REST API?
+## WHAT IS A REST API?
 
 REST API is a web service which uses REST architecture.
 
